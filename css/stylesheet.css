@@ -1,0 +1,29 @@
+* {
+    font-family: "Share Tech", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.bem-vindo-color {
+    background-color: #01455a;
+}
+
+body {
+    background-color: #001b22
+}
+
+bem-vindo-borda {
+    border: 3px solid #010e13
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+    color: gray;
+}
